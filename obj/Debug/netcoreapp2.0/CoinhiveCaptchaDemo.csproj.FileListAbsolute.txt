@@ -1,0 +1,11 @@
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/bin/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.deps.json
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/bin/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.runtimeconfig.json
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/bin/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.runtimeconfig.dev.json
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/bin/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.dll
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/bin/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.pdb
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.csprojResolveAssemblyReference.cache
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.csproj.CoreCompileInputs.cache
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.AssemblyInfoInputs.cache
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.AssemblyInfo.cs
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.dll
+/Users/andrecouto/Projects/CoinhiveCaptchaDemo/CoinhiveCaptchaDemo/obj/Debug/netcoreapp2.0/CoinhiveCaptchaDemo.pdb
